@@ -1,4 +1,4 @@
-### Olá! Me chamo Giovani Sales e eu sou desenvolvedor Front-end Jr. 👋
+### Olá! Me chamo Giovani Sales e eu sou desenvolvedor Full Stack. 👋
 
 <div align="center">
   <a href="https://github.com/ggsales">
