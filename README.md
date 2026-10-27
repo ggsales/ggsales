@@ -1,4 +1,4 @@
-### Olá! Me chamo Giovani Sales e eu sou desenvolvedor Full Stack. 👋
+### Olá! Me chamo Giovani Sales e eu sou desenvolvedor Full stack. 👋
 
 <div align="center">
   <a href="https://github.com/ggsales">
